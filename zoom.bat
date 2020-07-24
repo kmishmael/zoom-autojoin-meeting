@@ -1,0 +1,1 @@
+C:\Users\User\AppData\Local\Programs\Python\Python38\python.exe C:\Users\User\Desktop\zoom\zoom.py %*
