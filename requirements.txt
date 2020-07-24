@@ -1,3 +1,5 @@
 python
 selenium
-requests
+requests==2.24.0
+urllib3==1.25.9
+json
